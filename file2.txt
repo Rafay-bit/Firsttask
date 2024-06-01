@@ -1,1 +1,2 @@
 ths is file 2 
+Appended line in file2.
